@@ -8,4 +8,4 @@
 
 #1.0.7 hodne novych sounds
 
-#1.1.0 fix vseho mozneho, nove sounds
+#1.1.1 Největší update, fix. Enjoy <3

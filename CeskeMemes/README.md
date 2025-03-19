@@ -3,8 +3,9 @@
 
 
 ## Informace
-- <b>Obsahuje copyright hudbu.
-
+- <b>Obsahuje copyright hudbu v Main Menu a Lobby
+- <b>Inspirováno z Lethal Company CeskeRucicky
+- <b>Bez N-word
 </details>
 
 ## Komunita:
