@@ -28,10 +28,14 @@
             ]
         },
         {
-            "matches": "*:enemy bowtie scream loop global",
+            "matches": [
+            "*:enemy bowtie scream loop",
+            "*:enemy bowtie scream start global",
+            "*:enemy bowtie scream loop global"
+            ],
             "sounds": [
                 {
-                    "sound": "strasidylkoglobal.ogg",
+                    "sound": "lesapan.ogg",
                     "weight": 5
                 }
             ]
@@ -275,24 +279,7 @@
             "matches": "*:level lights turn off",
             "sounds": [
                 {
-                    "sound": "LungMachineDisconnect.ogg",
-                    "weight": 5
-                }       
-            ]
-        },
-        {
-            "matches": "*:shop music",
-            "sounds": [
-                {
-                    "sound": "RecordPlayerJazz-30.ogg",
-                    "weight": 5
-                },
-                {
-                    "sound": "RecordPlayerJazz-34.ogg",
-                    "weight": 5
-                },
-                {
-                    "sound": "RecordPlayerJazz-36.ogg",
+                    "sound": "powerouttage.ogg",
                     "weight": 5
                 }       
             ]
