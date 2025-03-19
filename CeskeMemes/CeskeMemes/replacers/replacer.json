@@ -1,0 +1,224 @@
+{
+    "replacements": [
+        {
+            "matches": "*:msc main menu",
+            "sounds": [
+                {
+                    "sound": "LOUIS VUITTON.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:msc lobby",
+            "sounds": [
+                {
+                    "sound": "MONDAY.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy bowtie scream loop",
+            "sounds": [
+                {
+                    "sound": "strasidylko.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy bowtie scream loop global",
+            "sounds": [
+                {
+                    "sound": "strasidylkoglobal.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:arena_music_temp",
+                "*:arena music temp",
+                "*:arena-music-temp"
+            ],
+            "sounds": [
+                {
+                    "sound": "zblaznim.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:arena player dead sound",
+            "sounds": [
+                {
+                    "sound": "tojedewbil.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:msc player death sighting",
+            "sounds": [
+                {
+                    "sound": "Chitter1-19.ogg",
+                    "weight": 5
+                },
+                {
+                    "sound": "Chitter1-20.ogg",
+                    "weight": 5
+                },
+                {
+                    "sound": "Chitter1-30.ogg",
+                    "weight": 5
+                },
+                {
+                    "sound": "Chitter2-34.ogg",
+                    "weight": 5
+                },
+                {
+                    "sound": "Chitter2-35.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:clown nose honk",
+            "sounds": [
+                {
+                    "sound": "ClownHorn1.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:enemy beamer laser loop",
+                "*:enemy beamer laser hit loop",
+                "*:enemy beamer laser start global"
+            ],
+            "sounds": [
+                {
+                    "sound": "strasidylko.ogg",
+                    "weight": 1000
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy beamer melee tell",
+            "sounds": [
+                {
+                    "sound": "kokote.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy beamer attack intro",
+            "sounds": [
+                {
+                    "sound": "aaa.ogg",
+                    "weight": 5
+                },
+                {
+                    "sound": "tycuraku.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:enemy hunter aim start01",
+                "*:enemy hunter aim start02",
+                "*:enemy hunter aim start03"
+            ],
+            "sounds": [
+                {
+                    "sound": "AlertedSFX-31.ogg",
+                    "weight": 6
+                },
+                {
+                    "sound": "AlertedSFX-33.ogg",
+                    "weight": 6
+                },
+                {
+                    "sound": "AlertedSFX-36.ogg",
+                    "weight": 6
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:enemy hunter aim start global01",
+                "*:enemy hunter aim start global02",
+                "*:enemy hunter aim start global03"
+            ],
+            "sounds": [
+                {
+                    "sound": "AlertedSFX-31Global.ogg",
+                    "weight": 6
+                },
+                {
+                    "sound": "AlertedSFX-33Global.ogg",
+                    "weight": 6
+                },
+                {
+                    "sound": "AlertedSFX-36Global.ogg",
+                    "weight": 6
+                }
+            ]
+        },
+        {
+            "matches": "*:loading ui text name",
+            "sounds": [
+                {
+                    "sound": "loading1.ogg",
+                    "weight": 5
+                },
+                {
+                    "sound": "loading2.ogg",
+                    "weight": 5
+                },
+                {
+                    "sound": "loading3.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:player death explosion01",
+                "*:player death explosion02",
+                "*:player death explosion03"
+            ],
+            "sounds": [
+                {
+                    "sound": "explosion1.ogg",
+                    "weight": 5
+                },
+                {
+                    "sound": "explosion2.ogg",
+                    "weight": 5
+                },
+                {
+                    "sound": "explosion3.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:valuable flamethrower loop",
+            "sounds": [
+                {
+                    "sound": "Flamethrower-15.ogg",
+                    "weight": 5
+                },
+                {
+                    "sound": "Flamethrower-65.ogg",
+                    "weight": 5
+                }
+            ]
+        }
+    ]
+}
