@@ -209,18 +209,10 @@
             ]
         },
         {
-            "matches": [
-            "*:valuable flamethrower loop",
-            "*:valuable flamethrower loop start"
-
-            ],
+            "matches": "*:valuable flamethrower loop start",
             "sounds": [
                 {
-                    "sound": "Flamethrower-15.ogg",
-                    "weight": 5
-                },
-                {
-                    "sound": "Flamethrower-65.ogg",
+                    "sound": "janhus.ogg",
                     "weight": 5
                 }
             ]
