@@ -220,6 +220,60 @@
                     "weight": 5
                 }
             ]
+        },
+        {
+            "matches": "*:enemy upscream scream01",
+            "sounds": [
+                {
+                    "sound": "Frighten1.ogg",
+                    "weight": 5
+                }
+            ]
+        },        
+        {
+            "matches": "*:enemy upscream scream02",
+            "sounds": [
+                {
+                    "sound": "Frighten3-40.ogg",
+                    "weight": 5
+                }
+            ]
+        }, 
+        {
+            "matches": "*:enemy upscream scream03",
+            "sounds": [
+                {
+                    "sound": "Frighten3-60.ogg",
+                    "weight": 5
+                }       
+            ]
+        },
+        {
+            "matches": "*:enemy upscream scream global01",
+            "sounds": [
+                {
+                    "sound": "Frighten1Global.ogg",
+                    "weight": 5
+                }
+            ]
+        },        
+        {
+            "matches": "*:enemy upscream scream global02",
+            "sounds": [
+                {
+                    "sound": "Frighten3-40Global.ogg",
+                    "weight": 5
+                }
+            ]
+        }, 
+        {
+            "matches": "*:enemy upscream scream global03",
+            "sounds": [
+                {
+                    "sound": "Frighten3-60Global.ogg",
+                    "weight": 5
+                }       
+            ]
         }
     ]
 }
