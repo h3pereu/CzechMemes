@@ -1,8 +1,8 @@
 {
     "name": "CeskeMemes",
-    "version_number": "1.1.0",
+    "version_number": "1.1.1",
     "website_url": "",
-    "description": "Ceske Memes hlasky a pisnicky",
+    "description": "České Memes hlášky a písničky",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "loaforc-loaforcsSoundAPI-2.0.5"

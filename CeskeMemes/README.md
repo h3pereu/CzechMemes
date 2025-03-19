@@ -9,5 +9,4 @@
 </details>
 
 ## Komunita:
-- <b>Updates, Bug Reports, Návrhy ->
-https://discord.gg/dkKbnqbhM8
+- <b>**Připojte se k nám na ->** [Discord](https://discord.gg/dkKbnqbhM8/) **<- pro více informací a podporu**!
