@@ -16,7 +16,7 @@
                     "sound": "MONDAY.ogg",
                     "weight": 5
                 }
-            ]
+            ]   
         },
         {
             "matches": "*:enemy bowtie scream loop",
@@ -40,7 +40,8 @@
             "matches": [
                 "*:arena_music_temp",
                 "*:arena music temp",
-                "*:arena-music-temp"
+                "*:arena-music-temp",
+                "*:Arena_Music_Temp"
             ],
             "sounds": [
                 {
