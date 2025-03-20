@@ -343,15 +343,6 @@
             ]
         },
         {
-            "matches": "*:enemy robe targeting",
-            "sounds": [
-                {
-                    "sound": "coze.ogg",
-                    "weight": 5
-                }
-            ]
-        },
-        {
             "matches": "*:enemy robe look under scream",
             "sounds": [
                 {
