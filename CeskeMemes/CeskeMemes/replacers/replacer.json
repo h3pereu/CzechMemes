@@ -316,7 +316,7 @@
             ]
         },
         {
-            "matches": "*:enemy thin man notice01 loop",
+            "matches": "*:enemy thin man notice01",
             "sounds": [
                 {
                     "sound": "tahninadalnici.ogg",
@@ -325,7 +325,7 @@
             ]
         },
         {
-            "matches": "*:enemy thin man notice02 loop",
+            "matches": "*:enemy thin man notice02",
             "sounds": [
                 {
                     "sound": "curakjeden.ogg",
@@ -334,7 +334,7 @@
             ]
         },
         {
-            "matches": "*:enemy thin man notice03 loop",
+            "matches": "*:enemy thin man notice03",
             "sounds": [
                 {
                     "sound": "tykundo.ogg",
