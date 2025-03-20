@@ -343,15 +343,6 @@
             ]
         },
         {
-            "matches": "*:enemy robe noise04",
-            "sounds": [
-                {
-                    "sound": "chcatmimohajzl.ogg",
-                    "weight": 5
-                }
-            ]
-        },
-        {
             "matches": "*:enemy robe targeting",
             "sounds": [
                 {
