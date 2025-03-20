@@ -300,6 +300,104 @@
                     "weight": 5
                 }       
             ]
+        },
+        {
+            "matches": "*:shop music",
+            "sounds": [
+                {
+                    "sound": "RecordPlayerJazz-30.ogg",
+                    "weight": 5
+                },
+                {
+                    "sound": "RecordPlayerJazz-34.ogg",
+                    "weight": 5
+                },
+                {
+                    "sound": "RecordPlayerJazz-36.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy robe noise01",
+            "sounds": [
+                {
+                    "sound": "tahninadalnici.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy robe noise02",
+            "sounds": [
+                {
+                    "sound": "curakjeden.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy robe noise03",
+            "sounds": [
+                {
+                    "sound": "tykundo.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy robe noise04",
+            "sounds": [
+                {
+                    "sound": "chcatmimohajzl.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy robe targeting",
+            "sounds": [
+                {
+                    "sound": "coze.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy robe look under scream",
+            "sounds": [
+                {
+                    "sound": "nazdar.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy robe look under scream global",
+            "sounds": [
+                {
+                    "sound": "nazdarglobal.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy robe attack_short",
+            "sounds": [
+                {
+                    "sound": "prestan.ogg",
+                    "weight": 5
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy robe attack_short global",
+            "sounds": [
+                {
+                    "sound": "prestanglobal.ogg",
+                    "weight": 5
+                }
+            ]
         }
     ]
 }
