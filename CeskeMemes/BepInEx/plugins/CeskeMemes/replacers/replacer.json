@@ -420,7 +420,7 @@
         {
             "matches": "*:inflatable hammer hit01",
             "sounds": [
-                { "sound": "squishhit", "weight": 5 },
+                { "sound": "squishhit.ogg", "weight": 5 },
                 { "sound": "squishhit2.ogg", "weight": 5 },
                 { "sound": "squishhit3.ogg", "weight": 5 }
             ]
@@ -428,7 +428,15 @@
         {
             "matches": "*:inflatable hammer hit02",
             "sounds": [
-                { "sound": "squishhit", "weight": 5 },
+                { "sound": "squishhit.ogg", "weight": 5 },
+                { "sound": "squishhit2.ogg", "weight": 5 },
+                { "sound": "squishhit3.ogg", "weight": 5 }
+            ]
+        },
+        {
+            "matches": "*:inflatable hammer hit03",
+            "sounds": [
+                { "sound": "squishhit.ogg", "weight": 5 },
                 { "sound": "squishhit2.ogg", "weight": 5 },
                 { "sound": "squishhit3.ogg", "weight": 5 }
             ]
@@ -470,7 +478,7 @@
             "matches": "*:enemy gnome spawn",
             "sounds": [
                 {
-                    "sound": "GnomeTalk4.ogg"
+                    "sound": "pojdvvylizmi.ogg"
                 }
             ]
         },
