@@ -434,14 +434,6 @@
             ]
         },
         {
-            "matches": "*:inflatable hammer hit03",
-            "sounds": [
-                { "sound": "squishhit", "weight": 5 },
-                { "sound": "squishhit2.ogg", "weight": 5 },
-                { "sound": "squishhit3.ogg", "weight": 5 }
-            ]
-        },
-        {
             "matches": [
 			"*:enemy gnome notice01",
 			"*:enemy gnome notice02",
