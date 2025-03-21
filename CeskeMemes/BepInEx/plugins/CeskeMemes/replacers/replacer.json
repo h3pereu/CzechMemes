@@ -602,15 +602,6 @@
             ]
         },
         {
-            "matches": "*:enemy slow mouth puke start",
-            "sounds": [
-                {
-                    "sound": "Mic1.ogg",
-                    "weight": 5
-                }
-            ]
-        },
-        {
             "matches": "*:enemy slow mouth puke loop",
             "sounds": [
                 {
