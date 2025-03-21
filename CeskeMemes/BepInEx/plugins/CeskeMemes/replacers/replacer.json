@@ -609,6 +609,15 @@
                     "weight": 5
                 }
             ]
+        },
+        {
+            "matches": "*:enemy slow mouth puke loop",
+            "sounds": [
+                {
+                    "sound": "Silence.ogg",
+                    "weight": 5
+                }
+            ]
         }
     ]
 }
