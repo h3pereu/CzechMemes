@@ -364,7 +364,7 @@
             "matches": "*:enemy robe attack_short",
             "sounds": [
                 {
-                    "sound": "prestan.ogg",
+                    "sound": "sundeboty.ogg",
                     "weight": 5
                 }
             ]
@@ -373,7 +373,7 @@
             "matches": "*:enemy robe attack_short global",
             "sounds": [
                 {
-                    "sound": "prestanglobal.ogg",
+                    "sound": "sundebotylobal.ogg",
                     "weight": 5
                 }
             ]
@@ -598,6 +598,15 @@
                 {
                     "sound": "enemy gnome footstep03.ogg",
 					"weight": 40
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy slow mouth puke start",
+            "sounds": [
+                {
+                    "sound": "Mic1.ogg",
+                    "weight": 5
                 }
             ]
         }
