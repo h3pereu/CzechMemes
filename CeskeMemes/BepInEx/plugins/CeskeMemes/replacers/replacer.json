@@ -42,7 +42,7 @@
         },
         {
             "matches": [
-                "arena_music_temp"
+                "*:arena_music_temp"
             ],
             "sounds": [
                 {
