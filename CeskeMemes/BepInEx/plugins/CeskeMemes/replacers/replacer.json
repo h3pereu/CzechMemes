@@ -373,7 +373,7 @@
             "matches": "*:enemy robe attack_short global",
             "sounds": [
                 {
-                    "sound": "sundebotylobal.ogg",
+                    "sound": "sundebotyglobal.ogg",
                     "weight": 5
                 }
             ]
