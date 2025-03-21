@@ -614,7 +614,7 @@
             "matches": "*:enemy slow mouth puke loop",
             "sounds": [
                 {
-                    "sound": "Silence.ogg",
+                    "sound": "Mic1.ogg",
                     "weight": 5
                 }
             ]
