@@ -97,7 +97,6 @@
         {
             "matches": [
                 "*:enemy beamer laser loop",
-                "*:enemy beamer laser hit loop",
                 "*:enemy beamer laser start global"
             ],
             "sounds": [
