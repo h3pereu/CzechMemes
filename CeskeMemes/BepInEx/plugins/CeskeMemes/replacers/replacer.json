@@ -19,18 +19,8 @@
             ]   
         },
         {
-            "matches": "*:enemy bowtie scream loop",
-            "sounds": [
-                {
-                    "sound": "strasidylko.ogg",
-                    "weight": 5
-                }
-            ]
-        },
-        {
             "matches": [
             "*:enemy bowtie scream loop",
-            "*:enemy bowtie scream start global",
             "*:enemy bowtie scream loop global"
             ],
             "sounds": [
@@ -96,8 +86,7 @@
         },
         {
             "matches": [
-                "*:enemy beamer laser loop",
-                "*:enemy beamer laser start global"
+                "*:enemy beamer laser loop"
             ],
             "sounds": [
                 {
