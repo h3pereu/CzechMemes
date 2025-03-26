@@ -577,6 +577,22 @@
                     "sound": "Mic1.ogg"
                 }
             ]
+        },
+        {
+            "matches": "*:extraction point jingle complete 2 local",
+            "sounds": [
+                {
+                    "sound": "cinkacka.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:extraction point jingle complete 2 global",
+            "sounds": [
+                {
+                    "sound": "cinkackaglobal.ogg"
+                }
+            ]
         }
     ]
 }
