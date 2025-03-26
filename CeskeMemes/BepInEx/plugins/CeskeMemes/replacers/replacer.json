@@ -285,23 +285,6 @@
             ]
         },
         {
-            "matches": "*:shop music",
-            "sounds": [
-                {
-                    "sound": "RecordPlayerJazz-30.ogg",
-                    "weight": 5
-                },
-                {
-                    "sound": "RecordPlayerJazz-34.ogg",
-                    "weight": 5
-                },
-                {
-                    "sound": "RecordPlayerJazz-36.ogg",
-                    "weight": 5
-                }
-            ]
-        },
-        {
             "matches": "*:enemy thin man notice01",
             "sounds": [
                 {
@@ -436,19 +419,19 @@
             "sounds": [
                 {
                     "sound": "jakejzmrd.ogg",
-					"weight": 6
+					"weight": 5
                 },
                 {
                     "sound": "pojdvvylizmi.ogg",
-					"weight": 3
+					"weight": 5
                 },
                 {
                     "sound": "vakastruju.ogg",
-					"weight": 3
+					"weight": 5
                 },
                 {
                     "sound": "codelaskurva.ogg",
-					"weight": 6
+					"weight": 5
                 }
             ]
         },
