@@ -21,3 +21,7 @@
 #1.2.1 Vyšlo nove SoundAPI pro R.E.P.O.
 
 #1.2.2 Úprava soundů
+
+#1.2.3 pridani sounds, fix local a global sounds aby byly stejne
+
+#1.2.4 upraveni weight, odstraneni duplikatu "matches": "*:shop music"
